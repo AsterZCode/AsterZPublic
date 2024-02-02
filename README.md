@@ -9,6 +9,7 @@
 ### 内容推荐向
 - [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 - [b站宝藏UP主名单](https://github.com/SyMind/awesome-bilibili)
+- [掘金翻译计划](https://github.com/xitu/gold-miner)
 ### 大厂项目
 - [Ant Design](https://github.com/ant-design/ant-design) 蚂蚁集团和 Ant Design 开源社区开源的一套企业级的前端设计语言和基于 React 的前端框架实现。
 ### 政府项目
