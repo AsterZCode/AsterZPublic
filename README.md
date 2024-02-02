@@ -4,4 +4,4 @@
 - 内容推荐向
     - https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
 - 生活相关向
-    - [https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/geekan/HowToLiveLonger)https://github.com/geekan/HowToLiveLonger
+    - [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
