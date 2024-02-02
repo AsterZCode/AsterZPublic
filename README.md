@@ -7,16 +7,16 @@
 ---
 ## 目录
 ### 内容推荐向
-    - [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
-    - [b站宝藏UP主名单](https://github.com/SyMind/awesome-bilibili)
+- [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+- [b站宝藏UP主名单](https://github.com/SyMind/awesome-bilibili)
 ### 大厂项目
-    - [Ant Design](https://github.com/ant-design/ant-design) 蚂蚁集团和 Ant Design 开源社区开源的一套企业级的前端设计语言和基于 React 的前端框架实现。
+- [Ant Design](https://github.com/ant-design/ant-design) 蚂蚁集团和 Ant Design 开源社区开源的一套企业级的前端设计语言和基于 React 的前端框架实现。
 ### 政府项目
-    - [GOV.UK](https://github.com/alphagov/govuk-frontend) 英国政府在GitHub上提交的GOV.UK网站源码。
+- [GOV.UK](https://github.com/alphagov/govuk-frontend) 英国政府在GitHub上提交的GOV.UK网站源码。
 ### 生活相关向
-    - [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
-    - [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
-    - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) (停更2年)
+- [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
+- [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
+- [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) (停更2年)
 ### 趣味向
 - [中国亲戚关系计算器](https://github.com/mumuy/relationship)
 - [狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator)
