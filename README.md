@@ -18,9 +18,9 @@
     - [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
     - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) (停更2年)
 ### 趣味向
-    - [中国亲戚关系计算器](https://github.com/mumuy/relationship)
-    - [狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator)
-    - [恶臭数字论证器](https://github.com/itorr/homo)
-    - [PornHub图标生成器](https://github.com/bestony/logoly)
-    - [nocode](https://github.com/kelseyhightower/nocode) 一行代码也没有
+- [中国亲戚关系计算器](https://github.com/mumuy/relationship)
+- [狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator)
+- [恶臭数字论证器](https://github.com/itorr/homo)
+- [PornHub图标生成器](https://github.com/bestony/logoly)
+- [nocode](https://github.com/kelseyhightower/nocode) 一行代码也没有
     
