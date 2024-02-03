@@ -1,10 +1,9 @@
 # AsterZPublic
 
-| 博采众长，活到老学到老
+> 博采众长，活到老学到老
 
-收集整理 GitHub 上有趣或者高质量的开源项目，并将他们进行归类
+此项目用于个人收集整理 GitHub 上有趣或者高质量的开源项目，并将他们进行归类
 
----
 ## 目录
 ### 内容推荐向
 - [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
