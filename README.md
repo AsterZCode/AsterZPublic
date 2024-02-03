@@ -10,11 +10,18 @@
 - [b站宝藏UP主名单](https://github.com/SyMind/awesome-bilibili)
 - [掘金翻译计划](https://github.com/xitu/gold-miner)
 - [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+- [Awesome Mac](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) Mac实用软件集合
 
 ### 工作相关向
 
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) (190328)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product) 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构 (220904)
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference)  各种技术面试题总结。阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [996.icu](https://github.com/996icu/996.ICU)
+
+### 学习向
+
+- [China-NPEE-math](https://github.com/fjh1997/China-NPEE-math) 全国研究生入学考试数一\数二真题及解析 (1999-2019)
   
 ### 生活相关向
 
@@ -26,8 +33,14 @@
 - [中国亲戚关系计算器](https://github.com/mumuy/relationship)
 - [狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator)
 - [恶臭数字论证器](https://github.com/itorr/homo)
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 是一个表情包博物馆，中国表情包大集合，堪称 GitHub 最有毒的仓库
 - [PornHub图标生成器](https://github.com/bestony/logoly)
 - [nocode](https://github.com/kelseyhightower/nocode) 一行代码也没有
+
+### 工具类
+
+- [Office Tool Plus](https://github.com/YerongAI/Office-Tool) Office配置
+- [fastgithub](https://github.com/kelseyhightower/nocode) GitHub加速工具
 
 ### 国外大厂项目
 
