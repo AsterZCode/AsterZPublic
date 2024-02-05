@@ -20,6 +20,15 @@ Portals
 - [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
 - [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
   
+### 趣味向
+
+- [中国亲戚关系计算器](https://github.com/mumuy/relationship)
+- [狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator)
+- [恶臭数字论证器](https://github.com/itorr/homo)
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 是一个表情包博物馆，中国表情包大集合，堪称 GitHub 最有毒的仓库
+- [PornHub图标生成器](https://github.com/bestony/logoly)
+- [nocode](https://github.com/kelseyhightower/nocode) 一行代码也没有
+  
 ### 工作相关向
 
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) (190328)
@@ -80,15 +89,6 @@ Portals
   - Python
     - [wtfpython](https://github.com/satwikkansal/wtfpython)
     - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)
-
-### 趣味向
-
-- [中国亲戚关系计算器](https://github.com/mumuy/relationship)
-- [狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator)
-- [恶臭数字论证器](https://github.com/itorr/homo)
-- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 是一个表情包博物馆，中国表情包大集合，堪称 GitHub 最有毒的仓库
-- [PornHub图标生成器](https://github.com/bestony/logoly)
-- [nocode](https://github.com/kelseyhightower/nocode) 一行代码也没有
 
 ### 国外大厂项目
 
