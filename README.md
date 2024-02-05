@@ -20,7 +20,7 @@ Portals
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) (190328)
 - [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product) 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构 (220904)
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference)  各种技术面试题总结。阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-- [interview_internal_reference](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)  前端开发面试题集锦
+- [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)  前端开发面试题集锦
 - [996.icu](https://github.com/996icu/996.ICU)
 
 ### 学习向
