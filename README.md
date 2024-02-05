@@ -15,6 +15,11 @@ Portals
 - [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) 收集整理 GitHub 上高质量、有趣的开源项目。 
 - [Awesome Mac](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) Mac实用软件集合
 
+### 生活相关向
+
+- [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
+- [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
+  
 ### 工作相关向
 
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) (190328)
@@ -76,11 +81,6 @@ Portals
     - [wtfpython](https://github.com/satwikkansal/wtfpython)
     - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)
 
-### 生活相关向
-
-- [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
-- [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
-
 ### 趣味向
 
 - [中国亲戚关系计算器](https://github.com/mumuy/relationship)
@@ -109,10 +109,13 @@ Portals
   - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) 一款系统管理工具
   - [Office Tool Plus](https://github.com/YerongAI/Office-Tool) Office 配置工具
   - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 一款好用开源的右键菜单管理工具
+  - [CEF Detector](https://github.com/ShirasawaSama/CefDetector) 开源的Windows下扫描工具,可扫描鉴别出电脑上共有几个Chromium Embedded Framework内核的应用,配以喜庆的背景音乐显示个数和占用空间。
+  - [CEF Detector X](https://github.com/ShirasawaSama/CefDetectorX) 【electron】开源的Windows下扫描工具,可扫描鉴别出电脑上共有几个CEF内核的应用,配以喜庆的背景音乐显示个数和占用空间。
   - [Ventoy](https://github.com/ventoy/Ventoy) 一款开源的启动盘制作工具
   - [rufus](https://github.com/pbatard/rufus) 一款开源的启动盘制作工具
 - 网络
   - [fastgithub](https://github.com/kelseyhightower/nocode) GitHub加速工具
+  - 
 - 字体
   - [MacType](https://github.com/snowie2000/mactype/releases) Windows字体优化工具
   - [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) Windows字体更换工具
